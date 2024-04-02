@@ -1,4 +1,7 @@
-### Hi there 👋
+# Stay a while and listen 👋
+
+## Hi I'm Florian,
+I'm currently enrolled in the data science boot camp by [www.wbscodingschool.com](www.wbscodingschool.com). Highly recommended.
 
 <!--
 **YamuYoga/YamuYoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
